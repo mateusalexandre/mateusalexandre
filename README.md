@@ -4,9 +4,9 @@ My name is Mateus Alexandre from Brazil (🇧🇷). I'm a Software Engineer (Fro
 
 Would you like to find me?
 
-💻 [LinkedIn](https://reclameaqui.com.br)
+💻 [LinkedIn](https://www.linkedin.com/in/mateus-alexandre/)
 
-📝 [Twitter](https://reclameaqui.com.br)
+📝 [Twitter](https://twitter.com/mateus_gmartins)
 
 
 

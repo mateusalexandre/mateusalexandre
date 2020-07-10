@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there!  🚀
 
-<!--
-**mateusalexandre/mateusalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mateus Alexandre from Brazil (🇧🇷). I'm a Software Engineer (Frontend) that loves to work with challenging & creative projects and currently I'm Front End Engineer at [ReclameAQUI](https://reclameaqui.com.br).
 
-Here are some ideas to get you started:
+Would you like to find me?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 [LinkedIn](https://reclameaqui.com.br)
+
+📝 [Twitter](https://reclameaqui.com.br)
+
+
+
+> Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." — Albert Schweitzer. 

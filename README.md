@@ -4,7 +4,7 @@ My name is Mateus Alexandre from Brazil (brazil). I love constructing beautiful 
 
 Outside of development, I'm also interested in UI/UX, Growth Hacking.
 
-Would you like to find me?
+Feel free to reach out to me any time:
 
 💻 [LinkedIn](https://www.linkedin.com/in/mateus-alexandre/)
 
